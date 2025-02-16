@@ -1,0 +1,1 @@
+document.writeln("Este es el script directo que aparece invocado en el html");
